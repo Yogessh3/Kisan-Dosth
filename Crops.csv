@@ -1,0 +1,184 @@
+min_price,max_price,modal_price,district,region,commodity
+2800,3000,2900,Coimbatore,Anaimalai,Coconut
+3000,3200,3100,Coimbatore,Annur,Tobacco
+5800,7200,6300,Coimbatore,Coimbatore,Turmeric
+2000,3000,2500,Coimbatore,Karamadai,Coconut
+3050,3150,3100,Coimbatore,Madathukulam,Coconut
+10250,10300,10275,Coimbatore,Madathukulam,Copra
+1900,1950,1925,Coimbatore,Madathukulam,Maize
+1680,1720,1700,Coimbatore,Madathukulam,Paddy(Dhan)(Common)
+3100,3200,3150,Coimbatore,Negamam,Coconut
+2040,2240,2140,Coimbatore,Palladam,Coconut
+9000,10000,9500,Coimbatore,Pethappampatti,Copra
+1800,1950,1850,Coimbatore,Pethappampatti,Maize
+2600,2900,2720,Coimbatore,Pollachi,Coconut
+2100,2700,2400,Coimbatore,Pongalur,Coconut
+2170,2370,2270,Coimbatore,Pudupalayam,Coconut
+2700,2900,2800,Coimbatore,Senjeri,Coconut
+5000,5340,5100,Coimbatore,Sevur,Groundnut
+2700,2900,2800,Coimbatore,Thondamuthur,Coconut
+2700,2800,2750,Coimbatore,Udumalpet,Coconut
+8900,10250,9350,Coimbatore,Udumalpet,Copra
+1800,1900,1850,Coimbatore,Udumalpet,Maize
+4559,4789,4789,Cuddalore,Cuddalore,Black Gram (Urd Beans)(Whole)
+6036,7361,7034,Cuddalore,Cuddalore,Groundnut
+1344,1555,1500,Cuddalore,Cuddalore,Paddy(Dhan)(Common)
+1616,1616,1616,Cuddalore,Cuddalore,Paddy(Dhan)(Common)
+1407,1407,1407,Cuddalore,Cuddalore,Paddy(Dhan)(Common)
+4606,4806,4706,Cuddalore,Kurinchipadi,Black Gram (Urd Beans)(Whole)
+6861,7240,7036,Cuddalore,Kurinchipadi,Groundnut
+4000,7500,6000,Dharmapuri,Dharampuri,Tamarind Fruit
+1000,1500,1200,Dharmapuri,Palakode,Coconut Seed
+5200,5700,5600,Dharmapuri,Papparapatti,Cotton
+4000,6800,5900,Dharmapuri,Papparapatti,Tamarind Fruit
+1000,1500,1200,Dharmapuri,Pappireddipatti,Coconut Seed
+4900,5200,5000,Dharmapuri,Pennagaram,Groundnut
+1100,2100,1600,Dindigul,Gopalpatti,Coconut
+1500,1700,1600,Dindigul,Gopalpatti,Maize
+1500,1800,1650,Dindigul,Palani,Coconut
+2505,3275,3000,Erode,Dharapuram,Coconut
+2535,3410,2870,Erode,Elumathur,Coconut
+2635,3000,2935,Erode,Kodumudi,Coconut
+9605,10205,10195,Erode,Kodumudi,Copra
+11300,14677,14509,Erode,Kodumudi,"Sesamum(Sesame,Gingelly,Til)"
+10249,11791,11681,Erode,Kodumudi,"Sesamum(Sesame,Gingelly,Til)"
+2500,2600,2530,Erode,Kunnathur,Coconut
+2505,3275,3225,Erode,Muthur,Coconut
+5305,10915,8845,Erode,Vellakkoil,Copra
+1350,1480,1420,Kancheepuram,Acharapakkam,Paddy(Dhan)(Common)
+1427,1692,1560,Kancheepuram,Chengalpattu,Paddy(Dhan)(Common)
+1450,1750,1550,Kancheepuram,Gummidipoondy,Paddy(Dhan)(Common)
+1220,1410,1350,Kancheepuram,Kanchipuram,Paddy(Dhan)(Common)
+1360,1480,1420,Kancheepuram,Maduranthagam,Paddy(Dhan)(Common)
+1427,1692,1560,Kancheepuram,Pallipattu,Paddy(Dhan)(Common)
+1450,1750,1550,Kancheepuram,Ponner,Paddy(Dhan)(Common)
+1427,1692,1560,Kancheepuram,Sunguvarchatram,Paddy(Dhan)(Common)
+1400,1407,1404,Kancheepuram,Uthiramerur,Paddy(Dhan)(Common)
+1500,1950,1800,Krishnagiri,Bargur,Coconut Seed
+1500,2100,1950,Krishnagiri,Pochampalli,Coconut Seed
+1500,2100,1950,Krishnagiri,Uthangarai,Coconut Seed
+5200,6200,5700,Krishnagiri,Uthangarai,Cotton
+1350,2150,1750,Madurai,Melur,Coconut
+1790,1850,1820,Madurai,Melur,Paddy(Dhan)(Common)
+1810,1870,1840,Madurai,Melur,Paddy(Dhan)(Common)
+6200,8000,7100,Madurai,Melur,"Sesamum(Sesame,Gingelly,Til)"
+4200,4300,4250,Madurai,Thirumangalam,Cotton
+3950,4080,4000,Madurai,Thirumangalam,Cotton
+2100,2200,2150,Madurai,Thirumangalam,Jowar(Sorghum)
+1800,1900,1850,Madurai,Thirumangalam,Paddy(Dhan)(Common)
+2400,2500,2450,Madurai,Thirumangalam,Paddy(Dhan)(Common)
+9500,11500,10500,Nagercoil (Kannyiakumari),Kalliakavillai,Cashewnuts
+5050,6050,5740,Namakkal,Namagiripettai,Turmeric
+6500,7500,6800,Namakkal,Namagiripettai,Turmeric
+8100,8700,8400,Namakkal,Namakkal,Copra
+8500,10400,9450,Namakkal,Rasipuram,Copra
+6712,7288,6950,Namakkal,Tiruchengode,Turmeric
+7412,8609,8000,Namakkal,Tiruchengode,Turmeric
+2200,2500,2350,Namakkal,Velur,Coconut
+1780,1830,1810,Ramanathapuram,Sivagangai,Paddy(Dhan)(Common)
+9400,10300,9700,Salem,Attur,Copra
+210,230,220,Salem,Attur,Tapioca
+5600,5700,5650,Salem,Gangavalli,Cotton
+1980,2440,2210,Salem,Karumanturai,Coconut
+4600,5000,4800,Salem,Kolathur,Cotton
+5000,5400,5200,Salem,Konganapuram,Cotton
+1160,1400,1280,Salem,Omalur,Coconut
+6940,7395,7120,Salem,Salem,Turmeric
+1790,1880,1840,Salem,Thalaivasal,Maize
+5600,5650,5625,Salem,Thammampati,Cotton
+2080,2540,2310,Salem,Vazhapadi,Coconut
+800,1200,950,Sivaganga,Singampuneri,Coconut
+1900,2100,2000,Thanjavur,Budalur,Paddy(Dhan)(Common)
+1750,1800,1780,Thanjavur,Kumbakonam,Paddy(Dhan)(Common)
+1750,1800,1780,Thanjavur,Orathanadu,Paddy(Dhan)(Common)
+1750,1800,1780,Thanjavur,Papanasam,Paddy(Dhan)(Common)
+2200,2300,2250,Thanjavur,Thanjavur,Paddy(Dhan)(Common)
+1800,1900,1850,Thanjavur,Thiruppananthal,Paddy(Dhan)(Common)
+1900,2000,1950,Thanjavur,Vallam,Paddy(Dhan)(Common)
+6203,6703,6620,Thiruvannamalai,Cheyyar,Groundnut
+1258,1449,1356,Thiruvannamalai,Cheyyar,Paddy(Dhan)(Common)
+1286,1509,1448,Thiruvannamalai,Cheyyar,Paddy(Dhan)(Common)
+1385,1467,1426,Vellore,Ammoor,Paddy(Dhan)(Common)
+1140,1455,1298,Vellore,Ammoor,Paddy(Dhan)(Common)
+1448,1521,1485,Vellore,Ammoor,Paddy(Dhan)(Common)
+1453,1453,1453,Vellore,Kalavai,Paddy(Dhan)(Common)
+1406,1453,1430,Vellore,Kalavai,Paddy(Dhan)(Common)
+4315,4815,4715,Vellore,Vellore,Black Gram (Urd Beans)(Whole)
+7030,9600,9300,Vellore,Vellore,Copra
+4350,4550,4550,Vellore,Vellore,Cowpea (Lobia/Karamani)
+7013,7752,7361,Vellore,Vellore,Groundnut
+2189,3002,2881,Vellore,Vellore,Kulthi(Horse Gram)
+1589,2210,2210,Vellore,Vellore,Maize
+1092,1492,1400,Vellore,Vellore,Paddy(Dhan)(Common)
+1652,1652,1652,Vellore,Vellore,Paddy(Dhan)(Common)
+2089,2661,2640,Vellore,Vellore,Ragi (Finger Millet)
+10100,10100,10100,Vellore,Vellore,Tamarind Fruit
+4569,4892,4792,Villupuram,Avalurpet,Black Gram (Urd Beans)(Whole)
+4412,7079,5062,Villupuram,Avalurpet,Green Gram (Moong)(Whole)
+5786,7111,6961,Villupuram,Avalurpet,Groundnut
+1400,1507,1453,Villupuram,Avalurpet,Paddy(Dhan)(Common)
+1772,2265,2019,Villupuram,Avalurpet,Paddy(Dhan)(Common)
+4870,4870,4870,Villupuram,Chinnasalem,Black Gram (Urd Beans)(Whole)
+1867,2009,1900,Villupuram,Chinnasalem,Maize
+9300,9400,9350,Villupuram,Chinnasalem,"Sesamum(Sesame,Gingelly,Til)"
+4809,4839,4824,Villupuram,Gingee,Black Gram (Urd Beans)(Whole)
+4250,4939,4595,Villupuram,Gingee,Cotton
+5080,5199,5140,Villupuram,Gingee,Green Gram (Moong)(Whole)
+6336,6711,6524,Villupuram,Gingee,Groundnut
+1673,1827,1700,Villupuram,Gingee,Paddy(Dhan)(Common)
+2200,2812,2506,Villupuram,Gingee,Paddy(Dhan)(Common)
+1336,1565,1451,Villupuram,Gingee,Paddy(Dhan)(Common)
+2400,2439,2420,Villupuram,Gingee,Ragi (Finger Millet)
+10799,11299,11049,Villupuram,Gingee,"Sesamum(Sesame,Gingelly,Til)"
+1851,1851,1851,Villupuram,Gingee,T.V. Cumbu
+4769,5013,4866,Villupuram,Kallakurichi,Black Gram (Urd Beans)(Whole)
+7999,11561,10649,Villupuram,Kallakurichi,Gingelly Oil
+4199,4599,4302,Villupuram,Kallakurichi,Green Gram (Moong)(Whole)
+6886,6886,6886,Villupuram,Kallakurichi,Groundnut
+1989,1989,1989,Villupuram,Kallakurichi,Kodo Millet(Varagu)
+1509,1999,1849,Villupuram,Kallakurichi,Maize
+2599,2599,2599,Villupuram,Kallakurichi,Ragi (Finger Millet)
+1910,2112,2029,Villupuram,Kallakurichi,T.V. Cumbu
+4769,4852,4811,Villupuram,Manalurpet,Black Gram (Urd Beans)(Whole)
+3539,3539,3539,Villupuram,Manalurpet,Green Gram (Moong)(Whole)
+1948,1948,1948,Villupuram,Manalurpet,Hybrid Cumbu
+1252,1457,1355,Villupuram,Manalurpet,Paddy(Dhan)(Common)
+2312,2312,2312,Villupuram,Manalurpet,Ragi (Finger Millet)
+9011,11351,10181,Villupuram,Manalurpet,"Sesamum(Sesame,Gingelly,Til)"
+4009,5000,4802,Villupuram,Sangarapuram,Black Gram (Urd Beans)(Whole)
+4080,4080,4080,Villupuram,Sangarapuram,Groundnut
+2630,2630,2630,Villupuram,Sangarapuram,Kulthi(Horse Gram)
+1953,2042,2029,Villupuram,Sangarapuram,Maize
+1548,1875,1789,Villupuram,Sangarapuram,Paddy(Dhan)(Common)
+1180,1180,1180,Villupuram,Sangarapuram,Ragi (Finger Millet)
+8640,10516,9391,Villupuram,Sangarapuram,"Sesamum(Sesame,Gingelly,Til)"
+6236,7387,6724,Villupuram,Tindivanam,Groundnut
+2222,2222,2222,Villupuram,Tindivanam,Hybrid Cumbu
+5987,6363,6263,Villupuram,Tindivanam,Karamani
+2400,2654,2400,Villupuram,Tindivanam,Ragi (Finger Millet)
+11199,11324,11261,Villupuram,Tindivanam,"Sesamum(Sesame,Gingelly,Til)"
+1318,1425,1376,Villupuram,Tiruvennainallur,Paddy(Dhan)(Common)
+1358,1420,1395,Villupuram,Tiruvennainallur,Paddy(Dhan)(Common)
+4699,4869,4779,Villupuram,Vikkiravandi,Black Gram (Urd Beans)(Whole)
+4696,4912,4896,Villupuram,Vikkiravandi,Cotton
+5179,5339,5209,Villupuram,Vikkiravandi,Green Gram (Moong)(Whole)
+4723,5923,5555,Villupuram,Vikkiravandi,Groundnut
+1800,1853,1825,Villupuram,Vikkiravandi,Hybrid Cumbu
+1248,1629,1420,Villupuram,Vikkiravandi,Paddy(Dhan)(Common)
+1270,1587,1515,Villupuram,Vikkiravandi,Paddy(Dhan)(Common)
+1700,1737,1715,Villupuram,Vikkiravandi,Paddy(Dhan)(Common)
+2529,2592,2579,Villupuram,Vikkiravandi,Ragi (Finger Millet)
+9774,10749,10049,Villupuram,Vikkiravandi,"Sesamum(Sesame,Gingelly,Til)"
+1200,1214,1205,Villupuram,Vikkiravandi,Thinai (Italian Millet)
+2559,2639,2619,Villupuram,Villupuram,Black Gram (Urd Beans)(Whole)
+5071,5239,5109,Villupuram,Villupuram,Green Gram (Moong)(Whole)
+6549,6915,6584,Villupuram,Villupuram,Groundnut
+1393,1456,1424,Villupuram,Villupuram,Paddy(Dhan)(Common)
+1392,1471,1431,Villupuram,Villupuram,Paddy(Dhan)(Common)
+1579,1715,1643,Villupuram,Villupuram,Paddy(Dhan)(Common)
+1400,1440,1420,Villupuram,Villupuram,Paddy(Dhan)(Common)
+1608,1701,1655,Villupuram,Villupuram,Paddy(Dhan)(Common)
+10636,11458,11124,Villupuram,Villupuram,"Sesamum(Sesame,Gingelly,Til)"
+1969,1969,1969,Villupuram,Villupuram,T.V. Cumbu
+1650,1750,1700,Virudhunagar,Rajapalayam,Paddy(Dhan)(Common)
+1750,1800,1775,Virudhunagar,Sathur,Paddy(Dhan)(Common)
